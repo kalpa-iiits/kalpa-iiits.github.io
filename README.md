@@ -1,4 +1,4 @@
 # portfolio
 My portfolio website
 
-https://brijeshbumrela.github.io/portfolio/
+https://kalpa-iiits.github.io/portfolio/
